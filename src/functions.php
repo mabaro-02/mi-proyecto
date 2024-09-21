@@ -6,4 +6,9 @@ function saludar(){
 }
 
 echo saludar();
+
+//nueva funcion mensaje
+function mensaje(){
+    return "Este es un mensaje personalizado";
+}
 ?>
