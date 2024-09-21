@@ -11,4 +11,7 @@ echo saludar();
 function mensaje(){
     return "Este es un mensaje personalizado";
 }
+
+//Editar en rama master
+//Editar en rama funcionalidad 1
 ?>
